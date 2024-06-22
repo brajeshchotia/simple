@@ -1,0 +1,157 @@
+.no-padding{
+    padding: 0px;
+    /* position: relative; */
+    
+}
+
+.top-part{
+    height: 500px;
+    width: 100%;
+   
+}
+.yes-padding{
+    padding: 0px;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+
+}
+
+.logo{
+    width: 110px;
+    height: 110px;
+    font-family: Poppins;
+    font-size: 70px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    margin: auto;
+    color: #eb2929;
+    background: white;
+    border-radius: 50%;
+}
+
+.headline{
+   
+    
+    
+    font-family:poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+   
+    line-height: 1.53;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.location{
+    width: 240px;
+    height: 40px;
+    margin: 0 21px 0 0;
+    padding: 7px;
+    background-color: #ffffff;
+}
+
+.search{
+    width: 400px;
+    height: 40px;
+   
+    padding: 10px;
+    background-color: #ffffff;  
+}
+
+.yes2-padding{
+    padding: 0px;
+}
+
+
+
+
+.Quick-Searches{
+    margin: 10px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.Discover{
+    margin-bottom:15px;
+    margin-left:10px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+
+
+.box{
+    min-width:350px;
+    margin: 10px;
+    height: 160px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+}
+
+.img{
+    height: 160px;
+    width: 150px;
+    border-radius: 10px;
+   
+}
+
+.main-part{
+    margin-left: 20px;
+    padding: 10px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.sub-part{
+    margin:20px;
+    margin-top: -5px;
+
+    padding: 11px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+
+   
+
+
+
+
+
+
+
